@@ -1,2 +1,2 @@
-# photo-portfolio
-repositorio de um curso de git que me passaram para fazer no trabalho
+# Photo Portfólio
+>A simple project to teach my tudents in a curse on Udemy
