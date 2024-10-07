@@ -2249,6 +2249,13 @@ input, select, textarea {
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
+		
+	}
+
+	#intro p {
+		font-size: 2rem;
+		line-height: 2.5rem;
+		text-shadow: 1px 1px 1px #000;
 	}
 
 /* One */
